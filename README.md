@@ -3,8 +3,13 @@
 The Admin Panel Template is a web-based application template that provides a sleek and modern interface for building admin panels or dashboards. It is designed to help developers kickstart their projects and easily manage their application's backend.
 
 ## demo
-
+###  large screens
 ![admin panel](assets/images/demo-admin-panel-01.png)
+
+###  small screens
+
+![admin panel](assets/images/demo-admin-panel-05.png)
+![admin panel](assets/images/demo-admin-panel-06.png)
 
 ## Features
 
