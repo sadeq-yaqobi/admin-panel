@@ -15,7 +15,7 @@ The Admin Panel Template is a web-based application template that provides a sle
 ## Features
 
 <div style="display: flex; align-items: center; justify-content: space-between">
-<p>
+<p style="flex-wrap: wrap">
 
   - Responsive and user-friendly interface
 - Pre-built components and layouts
@@ -26,7 +26,7 @@ The Admin Panel Template is a web-based application template that provides a sle
 - Role-based access control (RBAC)
 - CRUD (Create, Read, Update, Delete) functionality for data management
 </p>
-  <img src="assets/images/demo-admin-panel-06.png" alt="Image" style="margin-left:10px; width:30%"/> 
+  <img src="assets/images/demo-admin-panel-06.png" alt="Image" style="margin-left:10px; width:35%"/> 
 </div>
 
 ## Components
