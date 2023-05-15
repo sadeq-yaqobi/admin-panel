@@ -62,3 +62,7 @@
     z-index: 1;
   }
 }
+.df{
+  display: flex;
+  justify-content: space-between;
+}
