@@ -9,8 +9,6 @@ The Admin Panel Template is a web-based application template that provides a sle
 ###  small screens
 
 ![admin panel](assets/images/demo-admin-panel-05.png)
-![admin panel](assets/images/demo-admin-panel-06.png)
-
 ## Features
 
 - Responsive and user-friendly interface
