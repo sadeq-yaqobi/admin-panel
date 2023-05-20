@@ -4,7 +4,7 @@ The Admin Panel Template is a web-based application template that provides a sle
 
 ## Website
 
-Check out the live version of this project [here](https://sadeq-yaqobi.github.io/admin-panel/){:target="_blank"}.
+Check out the live version of this project [here](https://sadeq-yaqobi.github.io/admin-panel/).
 
 
 ## Features
