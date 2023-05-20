@@ -2,15 +2,10 @@
 
 The Admin Panel Template is a web-based application template that provides a sleek and modern interface for building admin panels or dashboards. It is designed to help developers kickstart their projects and easily manage their application's backend.
 
-## demo
-###  large screens
-![admin panel](assets/images/demo-admin-panel-01.png)
+## Website
 
-###  small screens
+Check out the live version of this project [here](https://sadeq-yaqobi.github.io/admin-panel/){:target="_blank"}.
 
-<div align="center">
-  <img src="assets/images/demo-admin-panel-05.png" alt="Image" />
-</div>
 
 ## Features
 
@@ -33,8 +28,6 @@ The Admin Panel Template consists of several key components that help you build 
 
 The sidebar navigation component provides a collapsible and responsive menu that allows users to navigate through different sections of the admin panel. It supports nested menu items and provides an intuitive user experience.
 
-![admin panel](assets/images/demo-admin-panel-03.png)
-
 ### 2. Dashboard Widgets
 
 The dashboard widgets component enables you to display dynamic and customizable widgets on the dashboard. These widgets can showcase various types of data, such as charts, statistics, recent activities, or any other relevant information.
@@ -56,11 +49,9 @@ To facilitate data input and editing, the template includes various forms and in
 
 The notifications and alerts component allows you to display important messages, notifications, or alerts to users. It supports different types of notifications, such as success messages, error alerts, or informational prompts, ensuring effective communication with users.
 
-![admin panel](assets/images/demo-admin-panel-02.png)
 
 These are just a few examples of the components provided by the Admin Panel Template. You can explore the codebase and documentation to discover more components and their usage instructions.
 
-![admin panel](assets/images/demo-admin-panel-04.png)
 
 ## Getting Started
 
