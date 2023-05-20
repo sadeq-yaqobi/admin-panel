@@ -82,5 +82,3 @@ Please ensure that your code adheres to the project's coding standards and inclu
 # License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute this template as permitted by the license.
 
-## Contact
-For any questions or inquiries, please contact the project maintainer at sadeq.yaqobi9219@gmail.com.
